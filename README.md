@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mojo07
+- 👋 Hi, I’m Newton
 - 👀 I’m interested in a lot
-- 🌱 I’m currently learning how to do salsa
-- 💞️ I’m looking to collaborate on a python project
+- 🌱 I’m currently learning how to talk to human species
+- 💞️ I’m looking to collaborate on a number of projects
 - 📫 How to reach me newtonmk26@gmail.com
 
 <!---
